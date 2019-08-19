@@ -9,6 +9,7 @@ include/
 lib/
 lib64
 pyvenv.cfg
+.gitignore.swp
 
 # C extensions
 *.so
