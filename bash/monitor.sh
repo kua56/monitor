@@ -1,5 +1,5 @@
 #!/bin/bash
 
-source /home/dev/monitor/bin/activate
-cd /home/dev/monitor/python/monitor
+source /opt/monitor/bin/activate
+cd /opt/monitor/app/monitor
 python monitor.py
